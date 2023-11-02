@@ -19,3 +19,4 @@ I don't really know what this section means. I decided to do the first column wi
 The left column allows the user read common information quickly about me. While the second one, the main contents, contain longer more detailed information about who I am and what I do.
 
 Enllaç al [figma][https://www.figma.com/file/HR1nEwXdbwzUtOt97MNzgh/CV?type=design&node-id=0%3A1&mode=design&t=GM15FWyxTbFT6ZI6-1].
+Enllaç a la [web][https://gvidaludg.github.io/HypermediaProjectHand-in].
